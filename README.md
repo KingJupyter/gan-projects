@@ -1,2 +1,2 @@
 # gan-projects
-Generative Adversarial Network implementation with PyTorch 
+Generative Adversarial Network implementation in PyTorch 
